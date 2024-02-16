@@ -1,0 +1,48 @@
+.featureMainBox {
+  width: 300px;
+  height: 320px;
+  padding: 24px;
+  border-radius: 12px;
+  border: 1px solid #39a7ff33;
+  box-shadow: 0px 4px 24px 0px #49108b1a;
+  box-shadow: 0px 6px 0px 0px #39a7ff;
+  /* background: linear-gradient(
+      0deg,
+      rgba(57, 167, 255, 0.2),
+      rgba(57, 167, 255, 0.2)
+    ),
+    linear-gradient(0deg, #ffffff, #ffffff); */
+  background: #fff !important;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  z-index: 20;
+}
+.featureIcon {
+  height: 42px;
+  width: auto;
+}
+.featureHeadingBox {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.featureHeading {
+  font-family: Axiforma, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+  gap: 4px;
+}
+.featureText {
+  text-align: left;
+  margin-top: 18px;
+  font-size: 18px;
+  font-family: Axiforma, sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  color: #3d3b4099;
+}

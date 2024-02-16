@@ -1,0 +1,36 @@
+/* src/fonts/fonts.css */
+@font-face {
+    font-family: 'headline';
+    src: url('../fonts/Axiforma-Bold.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: 'subtext';
+    src: url('../fonts/Axiforma-Medium.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'bannertext';
+    src: url('../fonts/Axiforma-ExtraBold.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'footerText';
+    src: url('../fonts/Axiforma-Light.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'footerHeading';
+    src: url('../fonts/Axiforma-SemiBold.woff2') format('woff2');
+  }
+  /* @font-face {
+    font-family: 'subtext';
+    src: url('../fonts/Axiforma-ExtraBoldItalic.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'subtext';
+    src: url('../fonts/Axiforma-MediumItalic.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'subtext';
+    src: url('../fonts/Axiforma-SemiBoldItalic.woff2') format('woff2');
+  } */
+
+ 
