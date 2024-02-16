@@ -12,22 +12,22 @@ function Privacy() {
         share ("process") your information when you use our services
         ("Services"), such as when you:
       </p>
-      <p>
-        -Download and use our mobile application (bukizz), or any other
-        application of ours that links to this privacy notice
-      </p>
-      <p>
-        -Download and use our mobile application (bukizz), or any other
-        application of ours that links to this privacy notice Engage with us in
-        other related ways, including any sales, marketing, or events
-      </p>
-      <p>
-        -Questions or concerns? Reading this privacy notice will help you
-        understand your privacy rights and choices. If you do not agree with our
-        policies and practices, please do not use our Services. If you still
-        have any questions or concerns, please contact us at
-        enquirybukizz@gmail.com.
-      </p>
+      <ul>
+
+      <li>
+      Visit our website at <a href="https://bukizz.com/">https://bukizz.com/</a>, or any website of ours that links to this
+privacy notice
+      </li>
+      <li>
+      Download and use our mobile application (bukizz), or any other application of
+ours that links to this privacy notice
+      </li>
+      <li>
+      Engage with us in other related ways, including any sales, marketing, or
+events
+
+      </li>
+      </ul>
       <p>
         Questions or concerns? Reading this privacy notice will help you
         understand your privacy rights and choices. If you do not agree with our
@@ -111,52 +111,52 @@ function Privacy() {
       <h1>TABLE OF CONTENTS</h1>
       <ol>
         <li>
-          <Link to="">WHAT INFORMATION DO WE COLLECT?</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">WHAT INFORMATION DO WE COLLECT?</Link>
         </li>
         <li>
-          <Link to="">HOW DO WE PROCESS YOUR INFORMATION?</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">HOW DO WE PROCESS YOUR INFORMATION?</Link>
         </li>
         <li>
-          <Link to="">
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">
             WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
           </Link>
         </li>
         <li>
-          <Link to="">WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?</Link>
         </li>
         <li>
-          <Link to="">DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?</Link>
         </li>
         <li>
-          <Link to="">HOW DO WE HANDLE YOUR SOCIAL LOGINS?</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">HOW DO WE HANDLE YOUR SOCIAL LOGINS?</Link>
         </li>
         <li>
-          <Link to="">HOW LONG DO WE KEEP YOUR INFORMATION?</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">HOW LONG DO WE KEEP YOUR INFORMATION?</Link>
         </li>
         <li>
-          <Link to="">HOW DO WE KEEP YOUR INFORMATION SAFE?</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">HOW DO WE KEEP YOUR INFORMATION SAFE?</Link>
         </li>
         <li>
-          <Link to="">WHAT ARE YOUR PRIVACY RIGHTS?</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">WHAT ARE YOUR PRIVACY RIGHTS?</Link>
         </li>
         <li>
-          <Link to="">CONTROLS FOR DO-NOT-TRACK FEATURES</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">CONTROLS FOR DO-NOT-TRACK FEATURES</Link>
         </li>
         <li>
-          <Link to="">DO WE MAKE UPDATES TO THIS NOTICE?</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">DO WE MAKE UPDATES TO THIS NOTICE?</Link>
         </li>
         <li>
-          <Link to="">HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</Link>
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</Link>
         </li>
         <li>
-          <Link to="">
+          <Link to="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">
             HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
           </Link>
         </li>
       </ol>
       <h1>1. WHAT INFORMATION DO WE COLLECT?</h1>
       <p>
-        <strong>Personal information you disclose to us</strong>
+        <strong><a href="file:///C:/Users/Devesh/Downloads/Privacy_policy%20.pdf">Personal information you disclose to us</a></strong>
       </p>
       <p>
         <em>
@@ -195,7 +195,7 @@ function Privacy() {
         your payment if you make purchases, such as your payment instrument
         number, and the security code associated with your payment instrument.
         All payment data is stored by PhonePe. You may find their privacy notice
-        link(s) here: https://www.phonepe.com/privacy
+        link(s) here: <a href="https://www.phonepe.com/privacy">https://www.phonepe.com/privacy</a>
       </p>
       <p>
         Social Media Login Data. We may provide you with the option to register
@@ -708,6 +708,14 @@ const Container = styled.div`
   p{
     margin:5px;
     font-size:20px;
+  }
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: darkblue;
   }
   li {
     font-size:20px;

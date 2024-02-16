@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import "../style.css"
+import "../style.css";
 
 function Cookies() {
   return (
@@ -10,9 +10,9 @@ function Cookies() {
       <p>
         This Cookie Policy explains how bukizz ("Company," "we," "us," and
         "our") uses cookies and similar technologies to recognize you when you
-        visit our website at <a href="https://bukizz.com">https://bukizz.com</a> ("Website"). It explains what
-        these technologies are and why we use them, as well as your rights to
-        control our use of them.
+        visit our website at <a href="https://bukizz.com">https://bukizz.com</a>{" "}
+        ("Website"). It explains what these technologies are and why we use
+        them, as well as your rights to control our use of them.
       </p>
       <p>
         In some cases we may use cookies to collect personal information, or
@@ -72,41 +72,93 @@ function Cookies() {
         marketing campaigns are, or to help us customize our Website for you.
       </p>
       <div class="cookie-info">
-    <h3>Cookie Information</h3>
-    <p><strong>Name:</strong> _ga</p>
-    <p><strong>Purpose:</strong> Records a particular ID used to come up with data about website usage by the user</p>
-    <p><strong>Provider:</strong> .bukizz.com</p>
-    <p><strong>Service:</strong> Google Analytics View Service Privacy Policy</p>
-    <p><strong>Type:</strong> http_cookie</p>
-    <p><strong>Expires in:</strong> 1 year 1 month 4 days</p>
-</div>
+        <h3>Cookie Information</h3>
+        <p>
+          <strong>Name:</strong> _ga
+        </p>
+        <p>
+          <strong>Purpose:</strong> Records a particular ID used to come up with
+          data about website usage by the user
+        </p>
+        <p>
+          <strong>Provider:</strong> .bukizz.com
+        </p>
+        <p>
+          <strong>Service:</strong> Google Analytics View Service Privacy Policy
+        </p>
+        <p>
+          <strong>Type:</strong> http_cookie
+        </p>
+        <p>
+          <strong>Expires in:</strong> 1 year 1 month 4 days
+        </p>
+      </div>
       <div class="cookie-info">
-    <h3>Cookie Information</h3>
-    <p><strong>Name:</strong> _ga</p>
-    <p><strong>Purpose:</strong> Records a particular ID used to come up with data about website usage by the user</p>
-    <p><strong>Provider:</strong> .bukizz.com</p>
-    <p><strong>Service:</strong> Google Analytics View Service Privacy Policy</p>
-    <p><strong>Type:</strong> http_cookie</p>
-    <p><strong>Expires in:</strong> 1 year 1 month 4 days</p>
-</div>
+        <h3>Cookie Information</h3>
+        <p>
+          <strong>Name:</strong> _ga
+        </p>
+        <p>
+          <strong>Purpose:</strong> Records a particular ID used to come up with
+          data about website usage by the user
+        </p>
+        <p>
+          <strong>Provider:</strong> .bukizz.com
+        </p>
+        <p>
+          <strong>Service:</strong> Google Analytics View Service Privacy Policy
+        </p>
+        <p>
+          <strong>Type:</strong> http_cookie
+        </p>
+        <p>
+          <strong>Expires in:</strong> 1 year 1 month 4 days
+        </p>
+      </div>
       <div class="cookie-info">
-    <h3>Cookie Information</h3>
-    <p><strong>Name:</strong> _ga</p>
-    <p><strong>Purpose:</strong> Records a particular ID used to come up with data about website usage by the user</p>
-    <p><strong>Provider:</strong> .bukizz.com</p>
-    <p><strong>Service:</strong> Google Analytics View Service Privacy Policy</p>
-    <p><strong>Type:</strong> http_cookie</p>
-    <p><strong>Expires in:</strong> 1 year 1 month 4 days</p>
-</div>
+        <h3>Cookie Information</h3>
+        <p>
+          <strong>Name:</strong> _ga
+        </p>
+        <p>
+          <strong>Purpose:</strong> Records a particular ID used to come up with
+          data about website usage by the user
+        </p>
+        <p>
+          <strong>Provider:</strong> .bukizz.com
+        </p>
+        <p>
+          <strong>Service:</strong> Google Analytics View Service Privacy Policy
+        </p>
+        <p>
+          <strong>Type:</strong> http_cookie
+        </p>
+        <p>
+          <strong>Expires in:</strong> 1 year 1 month 4 days
+        </p>
+      </div>
       <div class="cookie-info">
-    <h3>Cookie Information</h3>
-    <p><strong>Name:</strong> _ga</p>
-    <p><strong>Purpose:</strong> Records a particular ID used to come up with data about website usage by the user</p>
-    <p><strong>Provider:</strong> .bukizz.com</p>
-    <p><strong>Service:</strong> Google Analytics View Service Privacy Policy</p>
-    <p><strong>Type:</strong> http_cookie</p>
-    <p><strong>Expires in:</strong> 1 year 1 month 4 days</p>
-</div>
+        <h3>Cookie Information</h3>
+        <p>
+          <strong>Name:</strong> _ga
+        </p>
+        <p>
+          <strong>Purpose:</strong> Records a particular ID used to come up with
+          data about website usage by the user
+        </p>
+        <p>
+          <strong>Provider:</strong> .bukizz.com
+        </p>
+        <p>
+          <strong>Service:</strong> Google Analytics View Service Privacy Policy
+        </p>
+        <p>
+          <strong>Type:</strong> http_cookie
+        </p>
+        <p>
+          <strong>Expires in:</strong> 1 year 1 month 4 days
+        </p>
+      </div>
       <h1>Advertising cookies:</h1>
       <p>
         These cookies are used to make advertising messages more relevant to
@@ -116,14 +168,27 @@ function Cookies() {
         on your interests.
       </p>
       <div class="cookie-info">
-    <h3>Cookie Information</h3>
-    <p><strong>Name:</strong> _ga</p>
-    <p><strong>Purpose:</strong> Records a particular ID used to come up with data about website usage by the user</p>
-    <p><strong>Provider:</strong> .bukizz.com</p>
-    <p><strong>Service:</strong> Google Analytics View Service Privacy Policy</p>
-    <p><strong>Type:</strong> http_cookie</p>
-    <p><strong>Expires in:</strong> 1 year 1 month 4 days</p>
-</div>
+        <h3>Cookie Information</h3>
+        <p>
+          <strong>Name:</strong> _ga
+        </p>
+        <p>
+          <strong>Purpose:</strong> Records a particular ID used to come up with
+          data about website usage by the user
+        </p>
+        <p>
+          <strong>Provider:</strong> .bukizz.com
+        </p>
+        <p>
+          <strong>Service:</strong> Google Analytics View Service Privacy Policy
+        </p>
+        <p>
+          <strong>Type:</strong> http_cookie
+        </p>
+        <p>
+          <strong>Expires in:</strong> 1 year 1 month 4 days
+        </p>
+      </div>
       <h1>How can I control cookies on my browser?</h1>
       <p>
         As the means by which you can refuse cookies through your web browser
@@ -132,12 +197,34 @@ function Cookies() {
         to manage cookies on the most popular browsers:
       </p>
       <ul>
-        <li><a href="https://support.google.com/chrome/answer/95647#zippy=%2Callow-or-block-cookies">Chrome</a></li>
-        <li><a href="https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d">Internet Explorer</a></li>
-        <li><a href="https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US">FireFox</a></li>
-        <li><a href="https://help.opera.com/en/latest/web-preferences/">Opera</a></li>
-        <li><a href="https://support.apple.com/en-ie/guide/safari/sfri11471/mac">Safari</a></li>
-        <li><a href="https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd">Edge</a></li>
+        <li>
+          <a href="https://support.google.com/chrome/answer/95647#zippy=%2Callow-or-block-cookies">
+            Chrome
+          </a>
+        </li>
+        <li>
+          <a href="https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d">
+            Internet Explorer
+          </a>
+        </li>
+        <li>
+          <a href="https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US">
+            FireFox
+          </a>
+        </li>
+        <li>
+          <a href="https://help.opera.com/en/latest/web-preferences/">Opera</a>
+        </li>
+        <li>
+          <a href="https://support.apple.com/en-ie/guide/safari/sfri11471/mac">
+            Safari
+          </a>
+        </li>
+        <li>
+          <a href="https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd">
+            Edge
+          </a>
+        </li>
       </ul>
       <p>
         n addition, most advertising networks offer you a way to opt out of
@@ -145,9 +232,19 @@ function Cookies() {
         please visit:
       </p>
       <ul>
-        <li><a href="https://youradchoices.ca/">Digital Advertising Alliance</a></li>
-        <li><a href="https://youradchoices.ca/">Digital Advertising Alliance of Canada</a></li>
-        <li><a href="https://www.youronlinechoices.com/">European Interactive Digital Advertising Alliance</a></li>
+        <li>
+          <a href="https://youradchoices.ca/">Digital Advertising Alliance</a>
+        </li>
+        <li>
+          <a href="https://youradchoices.ca/">
+            Digital Advertising Alliance of Canada
+          </a>
+        </li>
+        <li>
+          <a href="https://www.youronlinechoices.com/">
+            European Interactive Digital Advertising Alliance
+          </a>
+        </li>
       </ul>
       <h1>What about other tracking technologies, like web beacons?</h1>
       <p>
@@ -240,12 +337,12 @@ const Container = styled.div`
   width: 60vw;
   a {
     color: blue;
-    text-decoration: none; 
-}
+    text-decoration: none;
+  }
 
-a:hover {
+  a:hover {
     color: darkblue;
-}
+  }
   h1 {
     font-weight: bold;
     font-size: 50px;
@@ -257,20 +354,19 @@ a:hover {
     margin: 10px;
   }
 
-  
   .cookie-info {
     margin: 20px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
     background-color: #f9f9f9;
-}
-.cookie-info h3 {
+  }
+  .cookie-info h3 {
     margin-top: 0;
-}
-.cookie-info p {
+  }
+  .cookie-info p {
     margin: 5px 0;
-}
+  }
   ol {
     padding-left: 20px;
   }

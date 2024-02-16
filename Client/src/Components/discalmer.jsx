@@ -1,5 +1,5 @@
 import React from "react";
-import styled from 'styled-components'
+import styled from "styled-components";
 
 function Discalmer() {
   return (
@@ -9,15 +9,16 @@ function Discalmer() {
       <h1>WEBSITE DISCLAIMER</h1>
       <p>
         The information provided by bukizz Solutions ("we," "us," or "our") on
-        https://bukizz.com (the "Site") is for general informational purposes
-        only. All information on the Site is provided in good faith, however we
-        make no representation or warranty of any kind, express or implied,
-        regarding the accuracy, adequacy, validity, reliability, availability,
-        or completeness of any information on the Site. UNDER NO CIRCUMSTANCE
-        SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND
-        INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY
-        INFORMATION PROVIDED ON THE SITE. YOUR USE OF THE SITE AND YOUR RELIANCE
-        ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN RISK.
+        <a href="https://bukizz.com">https://bukizz.com</a> (the "Site") is for
+        general informational purposes only. All information on the Site is
+        provided in good faith, however we make no representation or warranty of
+        any kind, express or implied, regarding the accuracy, adequacy,
+        validity, reliability, availability, or completeness of any information
+        on the Site. UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU
+        FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF
+        THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE. YOUR USE
+        OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY
+        AT YOUR OWN RISK.
       </p>
       <h1>EXTERNAL LINKS DISCLAIMER</h1>
       <p>
@@ -78,16 +79,24 @@ const Container = styled.div`
   ol {
     padding-left: 20px;
   }
-  p{
-    margin:5px;
-    font-size:25px;
+  p {
+    margin: 5px;
+    font-size: 25px;
+  }
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: darkblue;
   }
   li {
-    font-size:25px;
+    font-size: 25px;
     margin-bottom: 5px;
     list-style-type: disc;
   }
-  h2{
+  h2 {
     font-weight: bold;
     font-size: 30px;
     margin: 10px;

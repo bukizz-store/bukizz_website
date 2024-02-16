@@ -23,10 +23,10 @@ function App() {
 					<Route path="/contact" element={<Contact />}/>
 					<Route path="/about1" element={<About />}/>
 					<Route path="/solution" element={<Solution />}/>
-                    <Route path="/privacy" element={<Privacy />} />
-                    <Route path="/cookies" element={<Cookies />} />
                     <Route path="/terms_condition" element={<Terms_condition />} />
+                    <Route path="/privacy" element={<Privacy />} />
                     <Route path="/disclamer" element={<Disclamer />} />
+                    <Route path="/cookies" element={<Cookies />} />
                 </Routes>
             </div>
         </Router>
