@@ -1,0 +1,94 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.navbarMainBox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 86vw;
+  height: 70px;
+  padding: 24px 54px 24px 54px;
+  border-radius: 100px;
+  justify-content: space-between;
+  background: #ffffffcc;
+  box-shadow: 0px 11px 60px 0px #39a7ff1a;
+  color: black;
+}
+.navbarTextSection {
+  display: flex;
+  height: 36px;
+  gap: 36px;
+}
+.logoBox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.logo {
+  display: flex;
+  width: 36.73px;
+  height: 35.06px;
+  top: 0.47px;
+}
+.navHeadingBox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 300;
+  height: 35px;
+  padding-left: 30px;
+  gap: 24px;
+}
+.navHeadingSolutions {
+  display: flex;
+  align-items: flex-start;
+  height: 36px;
+}
+
+.navHeadingContactUs {
+  height: 36px;
+}
+.navHeadingAboutUs {
+  height: 36px;
+}
+.logoSVG {
+  height: 35px;
+}
+.expandMoreSVG {
+  height: 35px;
+  border: 0;
+  padding: 0;
+  padding-left: 8px;
+}
+.expandMoreSVGElement {
+  display: block;
+  margin: auto;
+}
+.logoHeading {
+  height: 35px;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  font-family: Axiforma, sans-serif;
+}
+.navbarButton {
+  width: 249px;
+  height: 55px;
+  padding: 12px 24px 12px 24px;
+  border-radius: 8px;
+  gap: 9.94px;
+  background: linear-gradient(90deg, #39a7ff 0%, #525ceb 100%);
+  box-shadow: 0px 4px 16px 0px #49108b33;
+  font-family: Axiforma, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 31px;
+  letter-spacing: 0em;
+  border: 0;
+  text-align: center;
+  color: #f3f8ff;
+}

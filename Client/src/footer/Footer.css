@@ -1,0 +1,79 @@
+.footerMainBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  justify-content: space-between;
+  z-index: 4;
+}
+.container {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  padding-top: 80px;
+}
+.copyright {
+  background: #f3f8ff;
+  font-family: Axiforma, sans-serif;
+  font-size: 18px;
+  width: 100%;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #230b3499;
+  padding: 15px 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.address {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  color: #3d3b40;
+}
+.rowHeading {
+  color: #181b32;
+  font-size: 22px;
+  text-align: left;
+  font-weight: 500;
+}
+.rowText {
+  font-size: 18px;
+  color: #3d3b40;
+  font-weight: 300;
+  text-align: left;
+}
+.row1 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.row2 {
+  display: flex;
+  gap: 14px;
+  flex-direction: column;
+}
+.row3 {
+  display: flex;
+  gap: 14px;
+  flex-direction: column;
+}
+.socials {
+  display: flex;
+  flex-direction: row;
+}
+
+.socialButton {
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+  height: 75px;
+  width: 75px;
+}

@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#root {
+  max-width: 1920px;
+  min-width: 100%;
+  text-align: center;
+  background-color: #f4f7ff;
+}
+.Navigation {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 50px;
+  width: 100%;
+  z-index: 10;
+}
+.FeatureSection {
+  z-index: 4;
+  /* margin-top: 80px; */
+}
+.InstallBanner {
+  /* margin-top: 80px; */
+  z-index: 4;
+}
+.Clients {
+  /* margin-top: 200px; */
+  z-index: 4;
+}
+.Carousel {
+  /* margin-top: 200px; */
+  z-index: 4;
+  width: 100%;
+}
+.FinalBanner {
+  /* margin-top: 200px; */
+  z-index: 8;
+}
+
+.footerBG {
+  background-image: url("../public/footerBG.png");
+  background-position: 100% 0%;
+  z-index: 50;
+}

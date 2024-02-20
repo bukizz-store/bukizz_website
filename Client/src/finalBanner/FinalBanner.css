@@ -1,0 +1,10 @@
+.finalBannerMainBox {
+  width: 80%;
+  /* height: 250px; */
+  border-radius: 36px;
+  margin-left: auto;
+  margin-right: auto;
+  background: linear-gradient(180deg, #49108b 0%, #7e30e1 100%) !important;
+  display: flex;
+  flex-direction: row;
+}

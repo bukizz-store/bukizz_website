@@ -1,0 +1,56 @@
+.featureSectionMainBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 4;
+  overflow: hidden;
+}
+.featureSectionMainBox::before {
+  z-index: -1;
+  position: absolute;
+  left: -120px;
+  top: 0;
+  content: url("Maskgroup.png");
+  background-repeat: no-repeat;
+}
+
+.featureSectionTitle {
+  line-height: 67px;
+  letter-spacing: 0em;
+  background: linear-gradient(149.34deg, #7e30e1 17.65%, #39a7ff 81.39%);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+  text-align: justify;
+  font-family: Axiforma, sans-serif;
+  font-weight: 800;
+}
+.featureSectionTitleUpper {
+  font-size: 50px;
+  line-height: 64px;
+}
+.featureSectionTitleLower {
+  font-size: 45px;
+  line-height: 64px;
+}
+.featureSectionBG {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 780px;
+  opacity: 0.15;
+  z-index: 1;
+}
+.featuresGrid {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  row-gap: 40px;
+  column-gap: 50px;
+}
