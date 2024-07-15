@@ -40,3 +40,9 @@ For any inquiries or support, please contact us at [bukizzstore@gmail.com](mailt
 
 Link for accessing - https://www.figma.com/design/TgFTJG2RzBrwpLfm1Fa6Gr/Bukizz?node-id=484-1136&t=cbg8XbSJmch4tCkD-1
 
+## Website Final Look 
+
+The Snapshot Provides the Final Look of the Website 🔥🔥
+
+<img  alt="App Final Look Snapshot"  src="https://firebasestorage.googleapis.com/v0/b/expense-tracjer-a20e3.appspot.com/o/bukizz_website_final_look.png?alt=media&token=eaf1af1b-e153-4281-a0ad-40b03a13a91b">
+
